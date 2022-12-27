@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 i'm french student at G4 Institute <br>👯 I do a cooperative training course at Teliae<br>🌱 I’m always learning a lot of things<br>⚡ PHP, JS, PY, ...
+🔭 i'm french student at G4 Institute <br>👯 I do a cooperative training course at Teliae<br>🌱 I’m always learning a lot of things<br>⚡ PHP, JS, ...
 
 
 ## 🌐 Socials:
